@@ -60,4 +60,4 @@ deck.shuffle()
 
 bob = Player("Bob")
 bob.draw(deck).draw(deck)
-bob.showhand()
+bob.showHand()
